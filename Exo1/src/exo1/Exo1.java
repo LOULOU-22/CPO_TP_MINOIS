@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 /*
- MINOIS Lilou TDC 20/09/2024
+ * MINOIS Lilou TDC 20/09/2024
  * @author lilou
  */
 public class Exo1 {
